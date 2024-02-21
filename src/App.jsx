@@ -35,7 +35,7 @@ function App() {
   return (
     <>
       <div className="container h1 text-center mt-5 text-light">
-        Password Generator
+        Password Generator GOOD
       </div>
 
       <div className="container">
